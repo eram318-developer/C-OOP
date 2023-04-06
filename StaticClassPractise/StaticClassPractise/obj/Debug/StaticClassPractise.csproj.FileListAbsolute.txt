@@ -1,0 +1,8 @@
+F:\C# Practice\StaticClassPractise\StaticClassPractise\bin\Debug\StaticClassPractise.exe.config
+F:\C# Practice\StaticClassPractise\StaticClassPractise\bin\Debug\StaticClassPractise.exe
+F:\C# Practice\StaticClassPractise\StaticClassPractise\bin\Debug\StaticClassPractise.pdb
+F:\C# Practice\StaticClassPractise\StaticClassPractise\obj\Debug\StaticClassPractise.csproj.AssemblyReference.cache
+F:\C# Practice\StaticClassPractise\StaticClassPractise\obj\Debug\StaticClassPractise.csproj.SuggestedBindingRedirects.cache
+F:\C# Practice\StaticClassPractise\StaticClassPractise\obj\Debug\StaticClassPractise.csproj.CoreCompileInputs.cache
+F:\C# Practice\StaticClassPractise\StaticClassPractise\obj\Debug\StaticClassPractise.exe
+F:\C# Practice\StaticClassPractise\StaticClassPractise\obj\Debug\StaticClassPractise.pdb

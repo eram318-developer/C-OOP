@@ -1,0 +1,8 @@
+F:\C# Practice\variablereferencetype\variablereferencetype\bin\Debug\variablereferencetype.exe.config
+F:\C# Practice\variablereferencetype\variablereferencetype\bin\Debug\variablereferencetype.exe
+F:\C# Practice\variablereferencetype\variablereferencetype\bin\Debug\variablereferencetype.pdb
+F:\C# Practice\variablereferencetype\variablereferencetype\obj\Debug\variablereferencetype.csproj.AssemblyReference.cache
+F:\C# Practice\variablereferencetype\variablereferencetype\obj\Debug\variablereferencetype.csproj.SuggestedBindingRedirects.cache
+F:\C# Practice\variablereferencetype\variablereferencetype\obj\Debug\variablereferencetype.csproj.CoreCompileInputs.cache
+F:\C# Practice\variablereferencetype\variablereferencetype\obj\Debug\variablereferencetype.exe
+F:\C# Practice\variablereferencetype\variablereferencetype\obj\Debug\variablereferencetype.pdb

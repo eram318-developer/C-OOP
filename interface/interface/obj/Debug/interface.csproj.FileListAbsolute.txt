@@ -1,0 +1,8 @@
+F:\C# Practice\interface\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+F:\C# Practice\interface\interface\obj\Debug\interface.csproj.SuggestedBindingRedirects.cache
+F:\C# Practice\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+F:\C# Practice\interface\interface\bin\Debug\@interface.exe.config
+F:\C# Practice\interface\interface\bin\Debug\@interface.exe
+F:\C# Practice\interface\interface\bin\Debug\@interface.pdb
+F:\C# Practice\interface\interface\obj\Debug\@interface.exe
+F:\C# Practice\interface\interface\obj\Debug\@interface.pdb

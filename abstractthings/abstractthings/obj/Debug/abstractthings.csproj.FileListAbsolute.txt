@@ -1,0 +1,8 @@
+F:\C# Practice\abstractthings\abstractthings\bin\Debug\abstractthings.exe.config
+F:\C# Practice\abstractthings\abstractthings\bin\Debug\abstractthings.exe
+F:\C# Practice\abstractthings\abstractthings\bin\Debug\abstractthings.pdb
+F:\C# Practice\abstractthings\abstractthings\obj\Debug\abstractthings.csproj.AssemblyReference.cache
+F:\C# Practice\abstractthings\abstractthings\obj\Debug\abstractthings.csproj.SuggestedBindingRedirects.cache
+F:\C# Practice\abstractthings\abstractthings\obj\Debug\abstractthings.csproj.CoreCompileInputs.cache
+F:\C# Practice\abstractthings\abstractthings\obj\Debug\abstractthings.exe
+F:\C# Practice\abstractthings\abstractthings\obj\Debug\abstractthings.pdb
